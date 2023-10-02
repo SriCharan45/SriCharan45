@@ -31,3 +31,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🖥️: I’m Currently exploring Web Development.
 -:zap: Solving DSA Problems on different platforms.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sricharandasika45/) AND [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sricharan45)
+- 📧: <a> sricharandasika@gmail.com </a>
