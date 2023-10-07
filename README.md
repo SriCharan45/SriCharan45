@@ -1,7 +1,22 @@
-<h1 align="center">Hi 👋, I'm Sri Charan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+  Hey, I'm Sri Charan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 📫 How to reach me **sricharan045@gmail.com**
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🖥️: I’m Currently exploring Web Development.
+-⚡: Solving DSA Problems on different platforms.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sricharandasika45/) AND [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sricharan45)
+- 📧: <a> sricharandasika@gmail.com </a>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
