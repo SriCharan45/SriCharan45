@@ -47,5 +47,4 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan45&layout=compact&theme=blue-green
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan45)](https://github.com/SriCharan45/github-readme-stats)
